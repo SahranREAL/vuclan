@@ -10,4 +10,4 @@
 **Date de création du projet : 3 février 2024**
 
 ## Configuration 💻
-**BIENTÔT**
+CPS: ne peux pas kick pour auto clique
