@@ -15,3 +15,10 @@
 
 ## Configuration 💻
 CPS: ne peux pas kick pour auto clique
+
+
+
+
+
+
+_dernier mis a jour: 3 février 2024_
