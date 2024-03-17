@@ -1327,7 +1327,7 @@ checks:
     autoclicker:
       a:
         enabled: true
-        punishable: true
+        punishable: false
         discord-alert-interval: 1
         broadcast-punishment: false
         max-violations: 10
@@ -1476,7 +1476,7 @@ checks:
           decay: 1.25
       j:
         enabled: true
-        punishable: true
+        punishable: false
         discord-alert-interval: 1
         broadcast-punishment: false
         max-violations: 25
