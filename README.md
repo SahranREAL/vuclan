@@ -4,7 +4,7 @@
 ## Informations ℹ️
 
 **Version 1.2**
-r
+
 **Configurer par Sahran**
 
 **Date de création du projet : 3 février 2024**
