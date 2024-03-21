@@ -3,7 +3,7 @@
 
 ## Informations ℹ️
 
-**Version 1**
+**Version 1.2**
 
 **Configurer par Sahran**
 
