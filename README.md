@@ -16,7 +16,7 @@
 
 
 ## Configuration 💻
-CPS: ne peux pas kick pour auto clique
+CPS: ne peux pas kick pour auto clique / Limite: 70
 
 Punitions commande:    
 
