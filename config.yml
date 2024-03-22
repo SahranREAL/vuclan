@@ -1240,7 +1240,7 @@ checks:
     autoblock:
       a:
         enabled: true
-        punishable: true
+        punishable: false
         discord-alert-interval: 1
         broadcast-punishment: false
         max-violations: 3
@@ -1249,7 +1249,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% 30d Fly'
         hotbar-shuffle:
           enabled: false
           minimum-vl-to-shuffle: 2
@@ -1260,7 +1260,7 @@ checks:
           rotate-every: 2
       b:
         enabled: true
-        punishable: true
+        punishable: false
         discord-alert-interval: 1
         broadcast-punishment: false
         max-violations: 3
@@ -1280,7 +1280,7 @@ checks:
           rotate-every: 2
       c:
         enabled: true
-        punishable: true
+        punishable: false
         discord-alert-interval: 1
         broadcast-punishment: false
         max-violations: 3
@@ -1304,7 +1304,7 @@ checks:
           rotate-every: 2
       d:
         enabled: true
-        punishable: true
+        punishable: false
         discord-alert-interval: 1
         broadcast-punishment: false
         max-violations: 3
