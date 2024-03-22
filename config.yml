@@ -510,7 +510,7 @@ settings:
   # This is the max file size (in KB) before the violations.txt should be zipped and put into the logs folder
   max-logs-file-size: 7500
   # If you have a bungee network and want to have a specific server name for punishment/alert messages, etc
-  server-name: 'KitPvP'
+  server-name: 'serveur'
   # Whether or not alert messages should be sent on the main thread or asynchronously. If your server is on bungee, it is recommended to keep this
   # disabled as sending large chat component messages with so much info (hover, click commands, etc) like the alert commands can
   # sometimes cause people to be kicked for 'The server you were on has went down' or something.
@@ -3063,7 +3063,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'tempban %player% 30d FastBreak
         buffer:
           max: 2
           multiple: .25
