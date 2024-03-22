@@ -729,7 +729,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: -1
         punishment-commands:
-          - 'tempban %player% 30d Aim'
+          - 'tempban %player% 30d Cheat'
         buffer:
           max: 3
           multiple: .75
@@ -753,7 +753,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: -1
         punishment-commands:
-          - 'tempban %player% 30d Aim'
+          - 'tempban %player% 30d Cheat'
         buffer:
           max: 6
           multiple: .5
@@ -777,7 +777,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: -1
         punishment-commands:
-          - 'tempban %player% 30d Aim'
+          - 'tempban %player% 30d Cheat'
         buffer:
           max: 5
           multiple: .5
@@ -801,7 +801,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: -1
         punishment-commands:
-          - 'tempban %player% 30d Aim'
+          - 'tempban %player% 30d Cheat'
         buffer:
           max: 8
           multiple: .5
@@ -825,7 +825,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: -1
         punishment-commands:
-          - 'tempban %player% 30d Aim'
+          - 'tempban %player% 30d Cheat'
         buffer:
           max: 4
           multiple: .75
