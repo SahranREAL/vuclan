@@ -1894,7 +1894,7 @@ checks:
         minimum-tps: 19.0
         punishment-commands:
           - 'tempban %player% 30d Killaura'
-          - 'kick %player% &b[FoxPingIA] Advantage dét
+          - 'tempban %player% 30d Killaura'
         buffer:
           max: 1
           multiple: .5
@@ -1910,8 +1910,8 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'tempban %player% 30d Killaura'
+          - 'tempban %player% 30d Killaura'
         buffer:
           max: 3
           multiple: .5
@@ -1927,8 +1927,8 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'tempban %player% 30d Killaura'
+          - 'tempban %player% 30d Killaura'
         buffer:
           max: 5
           multiple: .6
