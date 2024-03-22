@@ -1664,7 +1664,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Reach'
+          - 'tempban %player% 30d Cheat'
         buffer:
           max: 3
           multiple: .25
@@ -1681,7 +1681,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Reach'
+          - 'tempban %player% 30d Cheat'
         buffer:
           max: 6
           multiple: .25
@@ -1699,7 +1699,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d FastBow'
+          - 'tempban %player% 30d Cheat'
         buffer:
           max: 3
           multiple: .5
@@ -1724,8 +1724,8 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Criticals'
-          - 'tempban %player% 30d Criticals'
+          - 'tempban %player% 30d Cheat'
+          - 'tempban %player% 30d Cheat'
         buffer:
           max: 1
           multiple: .5
@@ -1749,8 +1749,8 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Criticals'
-          - 'tempban %player% 30d Criticals'
+          - 'tempban %player% 30d Cheat'
+          - 'tempban %player% 30d Cheat'
         buffer:
           max: 1
           multiple: .5
