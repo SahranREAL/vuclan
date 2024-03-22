@@ -23,6 +23,7 @@ Punitions commande:
     'tempban %player% 30d Raison'
          
 requis: advencedBan
+
 _(N'est pas enor fait pour tout)_
 ______
 
