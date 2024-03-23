@@ -1775,8 +1775,8 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Killaura'
-          - 'tempban %player% 30d Killaura'
+          - 'tempban %player% 30d Cheat'
+          - 'tempban %player% 30d Cheat'
         buffer:
           max: 3
           multiple: .5
@@ -1800,7 +1800,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Killaura'
+          - 'tempban %player% 30d Cheat'
           - 'tempban %player% 30d Killaura'
         buffer:
           max: 5
