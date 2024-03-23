@@ -4056,7 +4056,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'tempban %player% 30d Cheat'
         max-combat-violations: 25
       b:
         enabled: true
@@ -4069,7 +4069,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'tempban %player% 30d Cheat'
         max-movement-violations: 30
       c:
         enabled: true
@@ -4082,7 +4082,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'tempban %player% 30d Cheat'
         max-player-violations: 30
       d:
         enabled: true
@@ -4095,7 +4095,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'tempban %player% 30d Cheat'
         max-autoclicker-violations: 30
       e:
         enabled: true
@@ -4108,7 +4108,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'tempban %player% 30d Cheat'
         max-total-violations: 50
       f:
         enabled: true
@@ -4121,5 +4121,5 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'tempban %player% 30d Cheat'
         max-scaffold-violations: 25
