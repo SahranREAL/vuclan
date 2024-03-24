@@ -1982,13 +1982,13 @@ checks:
         punishable: true
         discord-alert-interval: 1
         broadcast-punishment: false
-        max-violations: 15
+        max-violations: 25
         alert-interval: 1
         dont-alert-until: 1
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'tempban %player% 30d Cheat'
         buffer:
           max: 4
           multiple: .25
@@ -1998,13 +1998,13 @@ checks:
         punishable: true
         discord-alert-interval: 1
         broadcast-punishment: false
-        max-violations: 15
+        max-violations: 25
         alert-interval: 1
         dont-alert-until: 1
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'tempban %player% 30d Cheat'
         buffer:
           max: 4
           multiple: .35
@@ -2014,13 +2014,13 @@ checks:
         punishable: true
         discord-alert-interval: 1
         broadcast-punishment: false
-        max-violations: 15
+        max-violations: 25
         alert-interval: 1
         dont-alert-until: 1
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'tempban %player% 30d Cheat'
         buffer:
           max: 5
           multiple: .25
@@ -2030,13 +2030,13 @@ checks:
         punishable: false
         discord-alert-interval: 1
         broadcast-punishment: false
-        max-violations: 15
+        max-violations: 25
         alert-interval: 1
         dont-alert-until: 1
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'tempban %player% 30d Cheat'
         buffer:
           max: 4
           multiple: .25
