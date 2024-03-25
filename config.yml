@@ -1658,7 +1658,7 @@ checks:
         punishable: true
         discord-alert-interval: 1
         broadcast-punishment: false
-        max-violations: 8
+        max-violations: 7
         alert-interval: 1
         dont-alert-until: 1
         maximum-ping: 100000
