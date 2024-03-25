@@ -24,7 +24,6 @@ Punitions commande:
          
 requis: advencedBan
 
-_(N'est pas enor fait pour tout)_
 ______
 
 _dernier mis a jour: 20 mars 2024_
