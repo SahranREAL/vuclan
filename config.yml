@@ -1243,13 +1243,13 @@ checks:
         punishable: true
         discord-alert-interval: 1
         broadcast-punishment: false
-        max-violations: 3
+        max-violations: 10
         alert-interval: 1
         dont-alert-until: 1
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% 30d Fly'
+          - 'tempban %player% 30d Cheat'
         hotbar-shuffle:
           enabled: false
           minimum-vl-to-shuffle: 2
@@ -1263,13 +1263,13 @@ checks:
         punishable: false
         discord-alert-interval: 1
         broadcast-punishment: false
-        max-violations: 3
+        max-violations: 10
         alert-interval: 1
         dont-alert-until: 1
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'tempban %player% 30d Cheat'
         hotbar-shuffle:
           enabled: false
           minimum-vl-to-shuffle: 2
@@ -1283,13 +1283,13 @@ checks:
         punishable: false
         discord-alert-interval: 1
         broadcast-punishment: false
-        max-violations: 3
+        max-violations: 10
         alert-interval: 1
         dont-alert-until: 1
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'tempban %player% 30d Cheat'
         buffer:
           max: 2
           multiple: .5
@@ -1307,13 +1307,13 @@ checks:
         punishable: false
         discord-alert-interval: 1
         broadcast-punishment: false
-        max-violations: 3
+        max-violations: 10
         alert-interval: 1
         dont-alert-until: 1
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'tempban %player% 30d Cheat'
         hotbar-shuffle:
           enabled: false
           minimum-vl-to-shuffle: 2
