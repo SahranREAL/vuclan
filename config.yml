@@ -1240,7 +1240,7 @@ checks:
     autoblock:
       a:
         enabled: true
-        punishable: false
+        punishable: true
         discord-alert-interval: 1
         broadcast-punishment: false
         max-violations: 3
