@@ -3,26 +3,26 @@
 
 ## Informations ℹ️
 
-**Version 2.1**
+**💾 Version 2.1**
 
-**Configurer par Sahran**
+**💻 Configurer par Sahran**
 
-**Date de création du projet : 3 février 2024**
+**📅 Date de création du projet : 3 février 2024**
 
-**Prefix: FoxPingIA**
+**📣 Prefix: FoxPingIA**
 
 
-**Configuration pour: FoxPing**
+**👑 Configuration pour: FoxPing**
 
 
 ## Configuration 💻
 CPS: ne peux pas ban / kick pour auto clique / Limite: 70
 
-Punitions commande:    
+😡 Punitions commande:    
 
     'tempban %player% 30d Cheat'
          
-requis: advencedBan
+👍 requis: advencedBan
 
 ______
 
