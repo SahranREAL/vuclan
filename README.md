@@ -24,6 +24,10 @@ CPS: ne peux pas ban / kick pour auto clique / Limite: 70
          
 👍 requis: advencedBan
 
+## **♾️ Prochaine update:**
+
+**⚠️ message quand trop de cps**
+
 ______
 
 _dernier mis a jour: 26 mars 2024_
