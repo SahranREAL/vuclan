@@ -20,7 +20,7 @@ CPS: ne peux pas ban / kick pour auto clique / Limite: 70
 
 😡 Punitions commande:    
 
-    'tempban %player% 30d Cheat'
+    'kick'
          
 👍 requis: advencedBan
 
