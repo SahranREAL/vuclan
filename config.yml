@@ -729,7 +729,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: -1
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 3
           multiple: .75
