@@ -598,8 +598,8 @@ hooks:
   ######################################################################################################################
   discord:
     enable-hook: true
-    alerts-channel-id: 'https://discord.com/channels/1092018117359718430/1183807510092730499'
-    punishment-channel-id: 'https://discord.com/channels/1092018117359718430/1183807586487779338'
+    alerts-channel-id: 'url-Channel-id'
+    punishment-channel-id: 'url-Channel-id'
     command-prefix: '!vulcan'
     alerts-format:
       color: 'ORANGE'
@@ -627,7 +627,7 @@ discord-webhook:
     # Whether or not Discord Webhook Alerts should be enabled
     enabled: true
     # Paste the URL to your webhook here. For how to create a webhook, please see https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks
-    url: 'https://discord.com/api/webhooks/1183804917454999623/x84S2ivkICA46_ZuVif6uBORvXj4NsW_TkxEB1zz4yYW7gWEXEVHn4gUC8nVfnMvoIr8'
+    url: 'webhook url'
     # The avatar for the webhook
     avatar: 'https://media.discordapp.net/attachments/1138502737831661708/1191678996266614837/FoxPing_Anticheat_logo.png?ex=65a6508d&is=6593db8d&hm=f18e0fa8b06440e45ecd69f965bbafd01a4161635227eb49525f7d4dc59edaa3&=&format=webp&quality=lossless'
     # Thumbnail for the webhook
@@ -654,7 +654,7 @@ discord-webhook:
   punishments:
     # Same settings and explanations as above
     enabled: true
-    url: 'https://discord.com/api/webhooks/1184545371985285252/zbjgEGpyB2achJAY8wYOM6GH-PZzSyq-jnATfw2AlagklnIT0QY_qRA13Pg2c-HS0afP'
+    url: 'webhook url'
     avatar: 'https://media.discordapp.net/attachments/1138502737831661708/1191678996266614837/FoxPing_Anticheat_logo.png?ex=65a6508d&is=6593db8d&hm=f18e0fa8b06440e45ecd69f965bbafd01a4161635227eb49525f7d4dc59edaa3&=&format=webp&quality=lossless'
     thumbnail: 'http://cravatar.eu/avatar/%name%/64.png'
     color-r: 255
