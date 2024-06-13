@@ -1064,7 +1064,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: -1
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 2
           multiple: .4
@@ -1088,7 +1088,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: -1
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 6
           multiple: .5
@@ -1112,7 +1112,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: -1
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 20
           multiple: .3
@@ -1136,7 +1136,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: -1
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 20
           multiple: .25
@@ -1160,7 +1160,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: -1
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         hotbar-shuffle:
           enabled: false
           minimum-vl-to-shuffle: 2
@@ -1180,7 +1180,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: -1
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 20
           multiple: .25
@@ -1204,7 +1204,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: -1
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 12
           multiple: .25
@@ -1249,7 +1249,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         hotbar-shuffle:
           enabled: false
           minimum-vl-to-shuffle: 2
@@ -1269,7 +1269,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         hotbar-shuffle:
           enabled: false
           minimum-vl-to-shuffle: 2
@@ -1289,7 +1289,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 2
           multiple: .5
@@ -1313,7 +1313,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         hotbar-shuffle:
           enabled: false
           minimum-vl-to-shuffle: 2
@@ -1664,7 +1664,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 3
           multiple: .25
@@ -1681,7 +1681,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 6
           multiple: .25
@@ -1699,7 +1699,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 3
           multiple: .5
@@ -1724,8 +1724,8 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 1
           multiple: .5
@@ -1749,8 +1749,8 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 1
           multiple: .5
@@ -1775,8 +1775,8 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 3
           multiple: .5
@@ -1800,8 +1800,8 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 5
           multiple: .6
@@ -1825,8 +1825,8 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 2
           multiple: .5
@@ -1850,8 +1850,8 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
       f:
         enabled: true
         punishable: true
@@ -1863,8 +1863,8 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 10
           multiple: .25
@@ -1880,8 +1880,8 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
       j:
         enabled: true
         punishable: true
@@ -1893,8 +1893,8 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 1
           multiple: .5
@@ -1910,8 +1910,8 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 3
           multiple: .5
@@ -1927,8 +1927,8 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 5
           multiple: .6
@@ -1953,7 +1953,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 4
           multiple: .25
@@ -1970,7 +1970,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 6
           multiple: .25
@@ -1988,7 +1988,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 4
           multiple: .25
@@ -2004,7 +2004,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 4
           multiple: .35
@@ -2020,7 +2020,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 5
           multiple: .25
@@ -2036,7 +2036,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 4
           multiple: .25
@@ -2264,7 +2264,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 2
           multiple: .25
@@ -2282,7 +2282,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 2
           multiple: .25
@@ -2399,7 +2399,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 5
           multiple: .5
@@ -2416,7 +2416,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 5
           multiple: .5
@@ -2467,7 +2467,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 5
           multiple: .5
@@ -2642,7 +2642,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 5
           multiple: .35
@@ -2660,7 +2660,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 3
           multiple: .25
@@ -2679,7 +2679,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 3
           multiple: .25
@@ -2698,7 +2698,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 3
           multiple: .25
@@ -2756,7 +2756,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 3
           multiple: .5
@@ -2774,7 +2774,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 4
           multiple: .5
@@ -2792,7 +2792,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 10
           multiple: .45
@@ -2810,7 +2810,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 4
           multiple: .45
@@ -2828,7 +2828,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 10
           multiple: .25
@@ -2847,7 +2847,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 3
           multiple: .65
@@ -2869,7 +2869,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 3
           multiple: .5
@@ -2887,7 +2887,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 4
           multiple: .75
@@ -2909,7 +2909,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 4
           multiple: .35
@@ -2931,7 +2931,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 3
           multiple: .4
@@ -3063,7 +3063,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 2
           multiple: .25
@@ -3081,7 +3081,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 4
           multiple: .5
@@ -3098,7 +3098,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
       b:
         enabled: true
         punishable: true
@@ -3110,7 +3110,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 3
           multiple: .25
@@ -3126,7 +3126,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 2
           multiple: .25
@@ -3142,7 +3142,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 4
           multiple: .25
@@ -3158,7 +3158,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 4
           multiple: .25
@@ -3174,7 +3174,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 3
           multiple: .5
@@ -3190,7 +3190,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 2
           multiple: .25
@@ -3206,7 +3206,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 8
           multiple: .25
@@ -3222,7 +3222,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
       j:
         enabled: true
         punishable: true
@@ -3234,7 +3234,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
       k:
         enabled: true
         punishable: true
@@ -3246,7 +3246,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 1
           multiple: .5
@@ -3263,7 +3263,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 1
           multiple: .5
@@ -3279,7 +3279,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         buffer:
           max: 3
           multiple: .5
@@ -3295,7 +3295,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
     timer:
       a:
         enabled: true
@@ -4056,7 +4056,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         max-combat-violations: 25
       b:
         enabled: true
@@ -4069,7 +4069,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         max-movement-violations: 30
       c:
         enabled: true
@@ -4082,7 +4082,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         max-player-violations: 30
       d:
         enabled: true
@@ -4095,7 +4095,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         max-autoclicker-violations: 30
       e:
         enabled: true
@@ -4108,7 +4108,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         max-total-violations: 50
       f:
         enabled: true
@@ -4121,5 +4121,5 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'tempban %player% 30d Cheat'
+          - 'kick %player% &b[FoxPingIA] Advantage détecter'
         max-scaffold-violations: 25
