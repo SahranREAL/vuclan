@@ -3,7 +3,7 @@
 ##############################################
 
 # The prefix that will be used for all of the %prefix% messages throughout the plugin
-prefix: '&b&lFoxPing IA &8»'
+prefix: '&b&lPingShield &8»'
 
 alerts:
   # This is the chat format that will be followed when a player fails a check.
