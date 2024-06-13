@@ -9,7 +9,7 @@
 
 **📅 Date de création du projet : 3 février 2024**
 
-**📣 Prefix: FoxPingIA**
+**📣 Prefix: prefix: PingShield**
 
 
 **👑 Configuration pour: FoxPing**
