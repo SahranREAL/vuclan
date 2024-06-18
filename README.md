@@ -20,7 +20,8 @@ CPS: ne peux pas ban / kick pour auto clique / Limite: 70
 
 😡 Punitions commande:    
 
-    'kick'
+```yml
+test```
          
 👍 requis: advencedBan
 
