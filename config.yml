@@ -603,7 +603,7 @@ hooks:
     command-prefix: '!vulcan'
     alerts-format:
       color: 'ORANGE'
-      title: 'FoxPing IA alerte'
+      title: 'PingShield alerte'
       description: '%player% failed %check% (Type: %type%) (VL:%vl%)'
       image: 'https://media.discordapp.net/attachments/1138502737831661708/1191678996266614837/FoxPing_Anticheat_logo.png?ex=65a6508d&is=6593db8d&hm=f18e0fa8b06440e45ecd69f965bbafd01a4161635227eb49525f7d4dc59edaa3&=&format=webp&quality=lossless'
       content:
@@ -637,9 +637,9 @@ discord-webhook:
     color-g: 140
     color-b: 3
     # Username of the webhook
-    username: 'FoxPing IA'
+    username: 'PingShield'
     # Title of the webhook
-    title: 'FoxPing IA alerte'
+    title: 'PingShield - server-name | Alert'
     # Description of the webhook
     description: '**%player%** failed %check% %dev%(Type %type%)%dev% [%vl%/%max-vl%]'
     # Content will send text outside of the embed, so you can tag roles or people for example.
@@ -660,8 +660,8 @@ discord-webhook:
     color-r: 255
     color-g: 0
     color-b: 0
-    username: 'FoxPing IA'
-    title: 'FoxPing IA Punishment'
+    username: 'PingShield'
+    title: 'PingShield - server-name | Punis'
     description: '**%player%** was punished for %check% (Type %type%) [VL: %vl%]'
     content: ''
     description-field: true
@@ -729,7 +729,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: -1
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 3
           multiple: .75
@@ -753,7 +753,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: -1
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 6
           multiple: .5
@@ -777,7 +777,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: -1
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 5
           multiple: .5
@@ -801,7 +801,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: -1
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 8
           multiple: .5
@@ -825,7 +825,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: -1
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 4
           multiple: .75
@@ -849,7 +849,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: -1
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 12
           multiple: .5
