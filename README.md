@@ -27,6 +27,7 @@ CPS: ne peux pas ban / kick pour auto clique / Limite: 70
 
 **⚠️ message quand trop de cps**
 
-______
+___
 
-_dernier mis a jour: 26 mars 2024_
+## 🏓 Patch Note:
+- rename: FoxPing IA to PingShield
