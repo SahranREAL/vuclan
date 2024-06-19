@@ -1,4 +1,4 @@
-# Configuration Vuclan pour foxping
+# Configuration Vuclan
 
 
 ## Informations ℹ️
@@ -10,9 +10,6 @@
 **📅 Date de création du projet : 3 février 2024**
 
 **📣 Prefix: prefix: PingShield**
-
-
-**👑 Configuration pour: FoxPing**
 
 
 ## Configuration 💻
