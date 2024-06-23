@@ -1400,8 +1400,8 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 3
           multiple: .5
@@ -1417,8 +1417,8 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 4
           multiple: .5
@@ -1434,8 +1434,8 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 5
           multiple: .25
@@ -1451,8 +1451,8 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 4
           multiple: .5
@@ -1468,8 +1468,8 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 5
           multiple: .5
@@ -1485,8 +1485,8 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 4
           multiple: .5
@@ -1502,8 +1502,8 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 4
           multiple: .5
@@ -1519,7 +1519,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 4
           multiple: .25
@@ -1535,7 +1535,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 4
           multiple: .25
@@ -1551,7 +1551,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 25
           multiple: .15
@@ -1567,7 +1567,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 5
           multiple: .25
@@ -1583,7 +1583,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 2
           multiple: .25
@@ -1598,7 +1598,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 35
           multiple: .3
@@ -1614,7 +1614,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 50
           multiple: .15
@@ -1630,7 +1630,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 30
           multiple: .15
@@ -1646,7 +1646,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 25
           multiple: .15
@@ -1664,7 +1664,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 3
           multiple: .25
@@ -1681,7 +1681,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 6
           multiple: .25
@@ -1699,7 +1699,7 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 3
           multiple: .5
@@ -1724,8 +1724,8 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 1
           multiple: .5
@@ -1749,8 +1749,8 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 1
           multiple: .5
@@ -1775,8 +1775,8 @@ checks:
         maximum-ping: 100000
         minimum-tps: 19.0
         punishment-commands:
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
-          - 'kick %player% &b[FoxPingIA] Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
+          - 'kick %player% &bPingShield Advantage détecter'
         buffer:
           max: 3
           multiple: .5
